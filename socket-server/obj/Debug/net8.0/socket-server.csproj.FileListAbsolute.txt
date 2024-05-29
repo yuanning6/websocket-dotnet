@@ -1,0 +1,14 @@
+/Users/evelynliu/Documents/myProjects/websocket/socket-server/bin/Debug/net8.0/socket-server
+/Users/evelynliu/Documents/myProjects/websocket/socket-server/bin/Debug/net8.0/socket-server.deps.json
+/Users/evelynliu/Documents/myProjects/websocket/socket-server/bin/Debug/net8.0/socket-server.runtimeconfig.json
+/Users/evelynliu/Documents/myProjects/websocket/socket-server/bin/Debug/net8.0/socket-server.dll
+/Users/evelynliu/Documents/myProjects/websocket/socket-server/bin/Debug/net8.0/socket-server.pdb
+/Users/evelynliu/Documents/myProjects/websocket/socket-server/obj/Debug/net8.0/socket-server.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evelynliu/Documents/myProjects/websocket/socket-server/obj/Debug/net8.0/socket-server.AssemblyInfoInputs.cache
+/Users/evelynliu/Documents/myProjects/websocket/socket-server/obj/Debug/net8.0/socket-server.AssemblyInfo.cs
+/Users/evelynliu/Documents/myProjects/websocket/socket-server/obj/Debug/net8.0/socket-server.csproj.CoreCompileInputs.cache
+/Users/evelynliu/Documents/myProjects/websocket/socket-server/obj/Debug/net8.0/socket-server.dll
+/Users/evelynliu/Documents/myProjects/websocket/socket-server/obj/Debug/net8.0/refint/socket-server.dll
+/Users/evelynliu/Documents/myProjects/websocket/socket-server/obj/Debug/net8.0/socket-server.pdb
+/Users/evelynliu/Documents/myProjects/websocket/socket-server/obj/Debug/net8.0/socket-server.genruntimeconfig.cache
+/Users/evelynliu/Documents/myProjects/websocket/socket-server/obj/Debug/net8.0/ref/socket-server.dll
