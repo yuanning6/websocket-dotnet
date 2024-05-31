@@ -1,3 +1,5 @@
+Run the command in root directory.
+
 To start the server:
 ```
 dotnet run --project socket-server
