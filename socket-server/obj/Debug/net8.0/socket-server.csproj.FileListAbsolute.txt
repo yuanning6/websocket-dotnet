@@ -12,3 +12,4 @@
 /Users/evelynliu/Documents/myProjects/websocket/socket-server/obj/Debug/net8.0/socket-server.pdb
 /Users/evelynliu/Documents/myProjects/websocket/socket-server/obj/Debug/net8.0/socket-server.genruntimeconfig.cache
 /Users/evelynliu/Documents/myProjects/websocket/socket-server/obj/Debug/net8.0/ref/socket-server.dll
+/Users/evelynliu/Documents/myProjects/websocket/socket-server/obj/Debug/net8.0/socket-server.sourcelink.json

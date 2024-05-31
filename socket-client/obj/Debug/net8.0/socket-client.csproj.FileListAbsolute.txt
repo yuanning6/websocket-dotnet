@@ -12,3 +12,4 @@
 /Users/evelynliu/Documents/myProjects/websocket/socket-client/obj/Debug/net8.0/socket-client.pdb
 /Users/evelynliu/Documents/myProjects/websocket/socket-client/obj/Debug/net8.0/socket-client.genruntimeconfig.cache
 /Users/evelynliu/Documents/myProjects/websocket/socket-client/obj/Debug/net8.0/ref/socket-client.dll
+/Users/evelynliu/Documents/myProjects/websocket/socket-client/obj/Debug/net8.0/socket-client.sourcelink.json
